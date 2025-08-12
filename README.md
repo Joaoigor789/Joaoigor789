@@ -6,14 +6,14 @@
 ## 🛠️ Tecnologias que Utilizo
 - 💻 **Back-End:** Java • Spring Boot • MySQL  
 - 🌐 **Front-End:** HTML • CSS • JavaScript  
-- 📱 **Mobile:** Flutter • Android (Java)  
+- 📱 **Mobile:**  • Android (Java)  
 - 🔧 **Ferramentas:** Git • GitHub
 
 ---
 
 ## 📚 Atualmente Estudando
 - HTML, CSS, JavaScript  
-- Java e Flutter  
+- Java 
 - 🛡️ Segurança Cibernética (Google)  
 - 🎓 Cursando **Desenvolvimento Full Stack**
 
