@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou João Igor Rodrigues Pereira da Silva  
-**Desenvolvedor Full Stack** | 🚀 Java | Spring Boot | Web
+**Desenvolvedor Full Stack Trainer** | 🚀 Java | Spring Boot | Web
 
 ---
 
