@@ -14,9 +14,12 @@
 ## 📚 Atualmente Estudando
 - HTML, CSS, JavaScript  
 - Java 
+- SISTEMA DA INFORMAÇÃO 2PERIODO
 - 🛡️ Segurança Cibernética (Google)  
 - 🎓 Cursando **Desenvolvimento Full Stack**
 
+
+empresa hostingdevpro -hospedagens
 ---
 
 ## 📌 Projetos Principais
