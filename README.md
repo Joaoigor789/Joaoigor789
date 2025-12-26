@@ -16,7 +16,7 @@
 - Java 
 - SISTEMA DA INFORMAÇÃO 2PERIODO
 - 🛡️ Segurança Cibernética (Google)  
-- 🎓 Cursando **Desenvolvimento Full Stack**
+- 🎓 Cursando **Desenvolvimento Full Stack/Sistema da informação**
 
 
 empresa hostingdevpro -hospedagens
