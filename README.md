@@ -1,54 +1,110 @@
-# 👋 Olá! Eu sou João Igor Rodrigues Pereira da Silva  
-**Desenvolvedor Full Stack Trainer** | 🚀 Java | Spring Boot | Web
+# 👨‍💻 João Igor Rodrigues Pereira da Silva  
+**Desenvolvedor Full Stack em Formação** | 🚀 Java • Spring Boot • Ruby • Web
 
 ---
 
-## 🛠️ Tecnologias que Utilizo
-- 💻 **Back-End:** Java • Spring Boot • MySQL  
-- 🌐 **Front-End:** HTML • CSS • JavaScript  
-- 📱 **Mobile:**  • Android (Java)  
-- 🔧 **Ferramentas:** Git • GitHub
+## 🚀 Sobre Mim
+Desenvolvedor em ascensão com foco em **tecnologias back-end e soluções web completas**. Atualmente cursando **Sistemas de Informação** e **Desenvolvimento Full Stack**, combinando conhecimento acadêmico com projetos práticos. Apaixonado por criar soluções que impactam positivamente a sociedade, desde aplicativos educacionais até sistemas sustentáveis.
 
 ---
 
-## 📚 Atualmente Estudando
-- HTML, CSS, JavaScript  
-- Java 
-- SISTEMA DA INFORMAÇÃO 2PERIODO
-- 🛡️ Segurança Cibernética (Google)  
-- 🎓 Cursando **Desenvolvimento Full Stack/Sistema da informação**
+## 🛠️ Stack Técnica
 
+### 💻 **Back-End**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-empresa hostingdevpro -hospedagens
----
+### 🌐 **Front-End**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📌 Projetos Principais
+### 📱 **Mobile**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### 📱 Farmácia AppTech
-Aplicativo Android educacional voltado para estudantes de Farmácia, com módulos interativos, simulado, fórum, integração com Firebase e chatbot com IA.
-
-### ♻️ Coleta Seletiva – Sistema de Pontos de Coleta
-Plataforma para localização de pontos de coleta seletiva e rastreamento de reciclagem. Foco em sustentabilidade e conscientização ambiental.
-
-### 📝 Lyrun Assessoria
-Sistema de organização e produtividade para consultores, com funcionalidades de gestão de compromissos, alertas e controle pessoal.
-
-🔎 Veja mais projetos no meu repositório 👉 [Meus Projetos](https://github.com/joaoigor789?tab=repositories)
+### 🔧 **Ferramentas & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📚 Aprendizado Contínuo
 
-![João Igor GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoigor789&show_icons=true&theme=react&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoigor789&layout=compact&theme=react)
+### 🎓 **Formação Acadêmica**
+- **Sistemas de Informação** (2º Período)
+- **Desenvolvimento Full Stack** (Cursando)
+
+### 💡 **Cursos em Andamento**
+- **Ruby** – Expansão da stack back-end
+- **Segurança Cibernética** (Google)
+- **Spring Boot & Java Avançado**
+- **HTML5, CSS3 e JavaScript Moderno**
 
 ---
 
-## 🌎 Onde Me Encontrar
-📩 **Email:** joaoigor1103@gmail.com  
-💼 **LinkedIn:** [João Igor no LinkedIn](https://www.linkedin.com/in/joao-igor-25b090250/)  
-🚀 **GitHub:** [joaoigor789](https://github.com/joaoigor789)
+## 💼 Projetos Destacados
+
+### 📱 **Farmácia AppTech** | Java • Android • Firebase
+Aplicativo educacional completo para estudantes de Farmácia com:
+- Módulos interativos de aprendizagem
+- Simulados com correção automática
+- Fórum de discussão integrado
+- Chatbot com IA para dúvidas
+- **Destaque:** +1.000 downloads na Google Play
+
+### ♻️ **EcoCollect** | Spring Boot • MySQL • JavaScript
+Sistema sustentável de gestão de resíduos:
+- Mapa interativo de pontos de coleta seletiva
+- Sistema de rastreamento de materiais recicláveis
+- Dashboard de métricas ambientais
+- Gamificação para engajamento comunitário
+
+### 📊 **Lyrun Assessoria** | Java • Spring Boot • React
+Sistema de produtividade para consultores:
+- Gestão inteligente de compromissos
+- Sistema de alertas e notificações
+- Controle pessoal e profissional integrado
+- Relatórios automatizados
+
+### 🔐 **CyberShield Lab** | Ruby • Segurança
+(Em desenvolvimento) Laboratório de práticas de segurança cibernética:
+- Simulador de vulnerabilidades web
+- Ferramentas de análise de segurança
+- Módulos educativos sobre práticas seguras
 
 ---
 
-> 💡 *"Às vezes, as pessoas que ninguém imagina que farão grandes coisas são as que fazem coisas que ninguém poderia imaginar."* – Alan Turing
+## 📈 Métricas GitHub
+
+<div align="center">
+  
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=joaoigor789&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoigor789&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaoigor789&theme=github-dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+</div>
+
+---
+
+## 🏆 Habilidades em Destaque
+
+```javascript
+const habilidades = {
+  backEnd: ["Java", "Spring Boot", "Ruby", "APIs REST", "MySQL"],
+  frontEnd: ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
+  mobile: ["Android Development", "Firebase Integration"],
+  softSkills: [
+    "Resolução de Problemas",
+    "Aprendizado Ágil",
+    "Trabalho em Equipe",
+    "Comunicação Técnica"
+  ],
+  emAprendizado: {
+    ruby: "Ruby on Rails & Sinatra",
+    seguranca: "OWASP & Boas Práticas",
+    devops: "Docker & CI/CD"
+  }
+};
