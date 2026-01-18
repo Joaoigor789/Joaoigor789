@@ -37,7 +37,7 @@ Desenvolvedor em ascensão com foco em **tecnologias back-end e soluções web c
 ### 💡 **Cursos em Andamento**
 - **Ruby** – Expansão da stack back-end
 - **Segurança Cibernética** (Google)
-- **Spring Boot & Java Avançado**
+- ****
 - **HTML5, CSS3 e JavaScript Moderno**
 
 ---
@@ -50,7 +50,7 @@ Aplicativo educacional completo para estudantes de Farmácia com:
 - Simulados com correção automática
 - Fórum de discussão integrado
 - Chatbot com IA para dúvidas
-- **Destaque:** +1.000 downloads na Google Play
+- **Destaque:** +100 downloads
 
 ### ♻️ **EcoCollect** | Spring Boot • MySQL • JavaScript
 Sistema sustentável de gestão de resíduos:
@@ -59,18 +59,17 @@ Sistema sustentável de gestão de resíduos:
 - Dashboard de métricas ambientais
 - Gamificação para engajamento comunitário
 
-### 📊 **Lyrun Assessoria** | Java • Spring Boot • React
+### 📊 **Lyrun Assessoria** | Java • Kotlin
 Sistema de produtividade para consultores:
 - Gestão inteligente de compromissos
 - Sistema de alertas e notificações
 - Controle pessoal e profissional integrado
 - Relatórios automatizados
 
-### 🔐 **CyberShield Lab** | Ruby • Segurança
-(Em desenvolvimento) Laboratório de práticas de segurança cibernética:
-- Simulador de vulnerabilidades web
-- Ferramentas de análise de segurança
-- Módulos educativos sobre práticas seguras
+### 🔐 **Calculadora inteligente** | Ruby • IA
+(Em desenvolvimento) Calculadora inteligente:
+- Ferramentas de análise
+-
 
 ---
 
@@ -88,21 +87,3 @@ Sistema de produtividade para consultores:
 ---
 
 ## 🏆 Habilidades em Destaque
-
-```javascript
-const habilidades = {
-  backEnd: ["Java", "Spring Boot", "Ruby", "APIs REST", "MySQL"],
-  frontEnd: ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
-  mobile: ["Android Development", "Firebase Integration"],
-  softSkills: [
-    "Resolução de Problemas",
-    "Aprendizado Ágil",
-    "Trabalho em Equipe",
-    "Comunicação Técnica"
-  ],
-  emAprendizado: {
-    ruby: "Ruby on Rails & Sinatra",
-    seguranca: "OWASP & Boas Práticas",
-    devops: "Docker & CI/CD"
-  }
-};
