@@ -1,5 +1,5 @@
 # 👨‍💻 João Igor Rodrigues Pereira da Silva  
-**Desenvolvedor Full Stack em Formação** | 🚀 Java • Spring Boot • Ruby • Web
+**Desenvolvedor Full Stack em Formação** | MYSQL• Ruby • Web
 
 ---
 
