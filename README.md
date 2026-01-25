@@ -83,7 +83,8 @@ Sistema de produtividade para consultores:
 
 
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaoigor789&theme=github-dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joaoigor789&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=8B949E)
+
 
 </div>
 
