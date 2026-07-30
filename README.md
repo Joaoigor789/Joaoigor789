@@ -31,10 +31,9 @@ Desenvolvedor em ascensão com foco em **tecnologias back-end e soluções web c
 ## 📚 Aprendizado Contínuo
 
 ### 🎓 **Formação Acadêmica**
-- **Sistemas de Informação** (2º Período)
-- **Desenvolvimento Full Stack** (Cursando)
+- **Desenvolvimento Full Stack** (Cursando 3ª)
 
-### 💡 **Cursos em Andamento**
+### 💡 **Cursos Finalizados**
 - **Ruby** – Expansão da stack back-end
 - **Segurança Cibernética** (Google)
 - ****
